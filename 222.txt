@@ -1,2 +1,4 @@
 222
 Lab : update file
+Lab : reset commit --soft
+after reset HEAD^ soft, I add this line
